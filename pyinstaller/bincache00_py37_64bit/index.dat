@@ -1,0 +1,889 @@
+{'_bz2.pyd': bytearray(b"@y\xb0\xe8\x0e\xf0\xf9|\xe3_\'$\x10\xbd)\xfe"),
+ '_cffi_backend.cp37-win_amd64.pyd': bytearray(b'I=\xc9f\x8ar\xfd5\xd8\xf7D\xcf'
+                                               b'\xf8]\xc4,'),
+ '_contextvars.pyd': bytearray(b'\x8f\x0f\xc1[\x89\x10_B\xbf\xa8\xdd\xd2'
+                               b'\x13B\xf0F'),
+ '_ctypes.pyd': bytearray(b'/!\xf5\r"R\xe3\x085U\xa7$\xcaW\xb7\x1e'),
+ '_decimal.pyd': bytearray(b'\xff\xa3@\x05\x12\xbe\xeb`/\xfa\xe7\xc5\x89[#\x1b'),
+ '_distutils_findvs.pyd': bytearray(b'l\x84\x9covg\xb65OD\x18*\xd6Q\xca\x81'),
+ '_elementtree.pyd': bytearray(b'\x16o\x84\x19\xcf\x1a\xa3\x10\xf1Z_\x99r}\xc7"'),
+ '_hashlib.pyd': bytearray(b'\xc3\xb1\x9a\xd58\x1b\x982\xe3\x13\xa4H\xde|R\x10'),
+ '_lzma.pyd': bytearray(b'\xa5g\xa2\xec\xb4s~[pP\x0e\xac%\xf20I'),
+ '_multiprocessing.pyd': bytearray(b'+t\x8e&\x17\xb6\xa0C|\x11s\xa2\xca{\x17g'),
+ '_portaudio.cp37-win_amd64.pyd': bytearray(b'\xb3\xea\xd0m\xeb\xd2\xc8\xee'
+                                            b'\xdb\xa9=\xf3/\x01\x01B'),
+ '_queue.pyd': bytearray(b'#%\xda\xb3bB\xfcs,\x85\x91J\xb7\xce%\xaf'),
+ '_socket.pyd': bytearray(b'\xd7\xe7\xa7Y#8\xce\x88\xe11\xf8X\xa8M\xee\xc6'),
+ '_sqlite3.pyd': bytearray(b'\x0b\xd9VG\xa8"\xbc\x0cF\x07\x92da\xa4\xa7G'),
+ '_ssl.pyd': bytearray(b'\xd4)\xff?\xd9\x19C\xad\x859\xc0v\xc2\xa0\xc7_'),
+ '_testcapi.pyd': bytearray(b'su\xc1^6F\xd2P\xa0y<j\x94\xcf\xa3a'),
+ '_tkinter.pyd': bytearray(b'\t\xf6e(\x01\x8f\xfe\xf9\x16\x89\x98E\xd6c#\x07'),
+ '_win32sysloader.pyd': bytearray(b'\xb8c5\xd2j3\xdaS\x83\x12 \xf3\xf1/[,'),
+ 'api-ms-win-core-console-l1-1-0.dll': bytearray(b'B\x03#\xd0\xe5\x07\xb8m'
+                                                 b'\xa5H\xd2\x0b'
+                                                 b'\x94\xf3\xec\xae'),
+ 'api-ms-win-core-datetime-l1-1-0.dll': bytearray(b'\xf4LV/\x05\x8c\x83\xcf'
+                                                  b'\x98\xcbQ\xa6T\x10\xb5\xb9'),
+ 'api-ms-win-core-debug-l1-1-0.dll': bytearray(b'l\xcf\x0c\xa5\x12\xb9B\t'
+                                               b'\x90\xc2-F*\xbe;\x08'),
+ 'api-ms-win-core-errorhandling-l1-1-0.dll': bytearray(b'8\x94\xf6\xde'
+                                                       b'\x15\x88\x84\x0f'
+                                                       b'\x92\x82$mR|\xb0w'),
+ 'api-ms-win-core-file-l1-1-0.dll': bytearray(b'\xf7Si\x9e\xa5V\x9c3'
+                                              b'\xbf\x9a\xbd-vdE\xc1'),
+ 'api-ms-win-core-file-l1-2-0.dll': bytearray(b'\xd0\x84*\xc1<3\xe2('
+                                              b'}\x8a\xdf\xb1k\xc8>z'),
+ 'api-ms-win-core-file-l2-1-0.dll': bytearray(b'\xf1,\x16tWK\x16\xdd'
+                                              b'\xc1\x7fL\xcfh\x95^Y'),
+ 'api-ms-win-core-handle-l1-1-0.dll': bytearray(b'\xceO\xa9\xb6\x07`\x07u'
+                                                b'e\x15q{q\x1a\xf9\xd4'),
+ 'api-ms-win-core-heap-l1-1-0.dll': bytearray(b'\xcd\x80\x16g f\x88p'
+                                              b"\xfe'\x1d\xb3\xa63\xf8\x97"),
+ 'api-ms-win-core-interlocked-l1-1-0.dll': bytearray(b'\xa6+r\xf5#y/(DyJ\xe3'
+                                                     b'\xb3v\xfc\x86'),
+ 'api-ms-win-core-libraryloader-l1-1-0.dll': bytearray(b'\xad&$i\xa5\xa8_\xa1'
+                                                       b'\xb1\xb2\x92.'
+                                                       b'\xef\xadh#'),
+ 'api-ms-win-core-localization-l1-2-0.dll': bytearray(b'9GW\x99\xbf\xae\xe6X'
+                                                      b'\x94\xf9J\x0f'
+                                                      b'\x15\xd0\xd1\xfb'),
+ 'api-ms-win-core-memory-l1-1-0.dll': bytearray(b'\x97\x92{d\xd4\xa3\x8e\x91'
+                                                b'\x98\x7f\xce\xd5\xd3\x9d\x8ey'),
+ 'api-ms-win-core-namedpipe-l1-1-0.dll': bytearray(b'j\x90\x02\x1aE\x81\x8a\xff'
+                                                   b'3\x90C\x8e\xef\xc9\xb7\x87'),
+ 'api-ms-win-core-processenvironment-l1-1-0.dll': bytearray(b'\xc0\xc1\xf8\x85'
+                                                            b'\xbf\x86\xc4\x87'
+                                                            b'\xec\xf9`\x8c'
+                                                            b'\xfa\xea4G'),
+ 'api-ms-win-core-processthreads-l1-1-0.dll': bytearray(b'\x89\xb1\xb4\x1b'
+                                                        b'\xe1\xfc\xd4\xaf'
+                                                        b'\x04\xd1\xd5Q'
+                                                        b'r\xc3G\x19'),
+ 'api-ms-win-core-processthreads-l1-1-1.dll': bytearray(b'\x91_\x1c\x02'
+                                                        b'\x9d\x8bQ\xce'
+                                                        b'W\x9f\xe6\xf53\nw\xca'),
+ 'api-ms-win-core-profile-l1-1-0.dll': bytearray(b'\x98\xc7U2h\x01M\x1a'
+                                                 b'\x9bKE\x1e\xc4B\x92\xe4'),
+ 'api-ms-win-core-rtlsupport-l1-1-0.dll': bytearray(b'\x87\x861E\x84\xfd\xfe?'
+                                                    b'\xed\xf8^\xaa'
+                                                    b'~\xb5\xc0\x08'),
+ 'api-ms-win-core-string-l1-1-0.dll': bytearray(b'\x1fR\t,\xb4S\x8f\x17'
+                                                b'\xf3\xea}b\xdb1\xbe\x0f'),
+ 'api-ms-win-core-synch-l1-1-0.dll': bytearray(b'\xdf\xa8\x9dJru\x10\x91'
+                                               b'\x10\x8f\xc3\xc0'
+                                               b'\x85\x88\xd2\xb7'),
+ 'api-ms-win-core-synch-l1-2-0.dll': bytearray(b'\xf9\x86\x87\xf2L"\xedi'
+                                               b'\x9d\xbc7!\xcd\xa7\x90D'),
+ 'api-ms-win-core-sysinfo-l1-1-0.dll': bytearray(b'\x0b\xdem\xb4'
+                                                 b'\xeb\xcb\xb3\xe69\xa0C\x9b'
+                                                 b'\x19U\x9d4'),
+ 'api-ms-win-core-timezone-l1-1-0.dll': bytearray(b'{,\xaa\xfb\xe6\xb2\xc3\xd6'
+                                                  b'\xcb\xf22a\r\xcc\xc04'),
+ 'api-ms-win-core-util-l1-1-0.dll': bytearray(b'\x04\xed\xe6\xb3\x91"\xafd'
+                                              b'k\xaf\xc8\x12\xbe\xb8C\xc7'),
+ 'api-ms-win-crt-conio-l1-1-0.dll': bytearray(b'\xb3\x98\x18c*\x1e7\xff'
+                                              b'\xf6\xbf\r\xda?,\x172'),
+ 'api-ms-win-crt-convert-l1-1-0.dll': bytearray(b'\xf1\x96nVdY8\x9da\x0b7s'
+                                                b'\xc3\xe0e\xf1'),
+ 'api-ms-win-crt-environment-l1-1-0.dll': bytearray(b'\xe2hb"\xcf\x81\xf2\xad'
+                                                    b'\xe7&\xd5\xb7'
+                                                    b'\xd6\x17\x17\xf4'),
+ 'api-ms-win-crt-filesystem-l1-1-0.dll': bytearray(b'%Xn\x8f\x956g\xbb'
+                                                   b'\xbb*\x7f.%\x94\x98\x08'),
+ 'api-ms-win-crt-heap-l1-1-0.dll': bytearray(b'\x08\xf8\xe9@!\xb23\x84'
+                                             b'\x8d\xbc\x16$\xcb\x17\xbbz'),
+ 'api-ms-win-crt-locale-l1-1-0.dll': bytearray(b'T\xa1\xde\xd1\x16\r\x8ez'
+                                               b'\x020{c\xc1\x91\xe4.'),
+ 'api-ms-win-crt-math-l1-1-0.dll': bytearray(b'\xb3\x93z\xe7\x17\x1bk='
+                                             b'\x02\x16k\xfa\x9c\xd6\xca\x9e'),
+ 'api-ms-win-crt-multibyte-l1-1-0.dll': bytearray(b'\x18\xb8u\xb9\x07Z\xc3\xbf'
+                                                  b'!\xfc\x8d\xb5mwN\xd3'),
+ 'api-ms-win-crt-process-l1-1-0.dll': bytearray(b'\t\xd0\xbf\xe9>\x1f)\\S=\xc3`'
+                                                b'\xa3I\x01g'),
+ 'api-ms-win-crt-runtime-l1-1-0.dll': bytearray(b'\xaf\xd2\xd8O\xb1\xcd\xd0\xc0'
+                                                b'>\xe2\x88\x8c\xe4\xfa\xda\xfc'),
+ 'api-ms-win-crt-stdio-l1-1-0.dll': bytearray(b'-{\x04\xcd>\x93\xf0\xc3'
+                                              b'+\xc9\x99\xa8\xdd\x06\xca1'),
+ 'api-ms-win-crt-string-l1-1-0.dll': bytearray(b'\\\x1e\xcc\xf8\xf0\x88\xc2\x94'
+                                               b'\xe4\xffJ\xdaNU\x95g'),
+ 'api-ms-win-crt-time-l1-1-0.dll': bytearray(b'C{\x1f\x03\x084\r\xb8'
+                                             b"\xc5\xd0\xd7\xf3\xc7'\x06\xd7"),
+ 'api-ms-win-crt-utility-l1-1-0.dll': bytearray(b'l\x82\xe6\xbd\xc1\xd0\xd0t'
+                                                b'h\x03\xfa\xda\xa0\xc5\xfb|'),
+ 'cryptography\\hazmat\\bindings\\_constant_time.cp37-win_amd64.pyd': bytearray(b'\x97\xd9\x00A'
+                                                                                b'Y_\xcc2'
+                                                                                b'\xd4\xa2\xfbi'
+                                                                                b';\x03J\x9e'),
+ 'cryptography\\hazmat\\bindings\\_openssl.cp37-win_amd64.pyd': bytearray(b'\\\xacw\xcc'
+                                                                          b'\xca\x0e*d'
+                                                                          b'\x13\xa5\xa1u'
+                                                                          b'\x0f\xf6\xb40'),
+ 'cv2\\cv2.cp37-win_amd64.pyd': bytearray(b'\x9eD\xd7?zQl\x11\xe6Y\xd0Q'
+                                          b'\xfb\x18\\\xb4'),
+ 'd3dcompiler_47.dll': bytearray(b'\xb0\xae:\xa9\xdd\x1e\xbd`\xbd\xf5\x1c\xb9'
+                                 b'H4\xcd\x04'),
+ 'kiwisolver.cp37-win_amd64.pyd': bytearray(b'(@\xc4\xc2\xe7\xd4\xab\x1a'
+                                            b'\x85\x92\xbf\xea\xe6\x8b\x13\xda'),
+ 'lib_arpack-.lp4wtpw2chl6bs2ytutfgnlrsl2xghuy.gfortran-win_amd64.dll': bytearray(b'\x92\xab\xbb\xc6'
+                                                                                  b'J\xaa\xc3\xf2'
+                                                                                  b'\x80\xb4\xb0\xf0'
+                                                                                  b'7w\x8eZ'),
+ 'lib_blas_su.u2yymxfz7kxpb6ahh3xlw57ylzil5gjm.gfortran-win_amd64.dll': bytearray(b';\nY5'
+                                                                                  b'\xa8\x92&\xed'
+                                                                                  b'\xec\x8d\xbaJ'
+                                                                                  b'\xf8\x9c\xd4\xf1'),
+ 'lib_test_fo.jf5htwmupbxwgayebveju3ozahtsvkct.gfortran-win_amd64.dll': bytearray(b'\x0f\xca\xfa;'
+                                                                                  b'/\xf0\xd4\xea'
+                                                                                  b'\x1a\xe7_\xdc'
+                                                                                  b'{9\x05/'),
+ 'libansari.r6ea3hqp5kz6taxu4y4zvtrpt7uva53z.gfortran-win_amd64.dll': bytearray(b'r,\x05\xdc'
+                                                                                b'D\x8cJ\x97'
+                                                                                b'q\xa3}\xa5'
+                                                                                b'g\xb3Y\xe7'),
+ 'libbanded5x.rjxwddsb2s4nzklp4vgvmhgdaswuosej.gfortran-win_amd64.dll': bytearray(b'\x8d\x0e\\\x84'
+                                                                                  b',\x10\xe65'
+                                                                                  b'g)\xfa\xfc'
+                                                                                  b'd\x03l\xfa'),
+ 'libbispeu.7ah3pcq2e2nglc3aqd7ffah73kgjtzcj.gfortran-win_amd64.dll': bytearray(b'L8&\x8a'
+                                                                                b'z\xbe\x98D'
+                                                                                b'\xc1\t\xb4y'
+                                                                                b'\xb9p\xf4F'),
+ 'libblkdta00.dulr57ps4fztvcxgochflwasn24o3vbz.gfortran-win_amd64.dll': bytearray(b'\x89\xbe\x11\xe3'
+                                                                                  b'\xeazN\xd1'
+                                                                                  b'\xcc \xd8\xc1'
+                                                                                  b'\t\x0e\xcbn'),
+ 'libchkder.g7wsogiyyqo3uwfvez3ppxcxr53advpa.gfortran-win_amd64.dll': bytearray(b'\xdc\xc5Hw'
+                                                                                b'\x06}\xcd>'
+                                                                                b'\xc9\x03\x8f\x98'
+                                                                                b')\x98WH'),
+ 'libcobyla2.25evusebaw7vkisarb7lo3ugzpn2hxe3.gfortran-win_amd64.dll': bytearray(b'\x1c\xf6\xf1l'
+                                                                                 b'\x07\x7f%\x97'
+                                                                                 b"D\r\xdf'"
+                                                                                 b'\xca\xd7X\x10'),
+ 'libcrypto-1_1-x64.dll': bytearray(b'\x02*a\x84\x9a\xda\xb6~:Y\xbc\xf4'
+                                    b'\xd0\xf1\xc4\x0b'),
+ 'libcrypto-1_1.dll': bytearray(b'\xccL\xbfqYf\xcd\xca\xd9Z\x1el\x95Y+='),
+ 'libd_odr.nztjq6b5zo7txbkd7akhna3wbumjts4x.gfortran-win_amd64.dll': bytearray(b'\xc1\xcb\xb3E'
+                                                                               b'\xdc\xff\xe4\xb8'
+                                                                               b'\xcc\x94\x1aM'
+                                                                               b'5]?\xaa'),
+ 'libdcsrch.i2aopdcxapdrfnpwy55h5ue7xzsu5cvn.gfortran-win_amd64.dll': bytearray(b'\xdaS\xa9;'
+                                                                                b'\xc9$\x03#'
+                                                                                b'D\xd1"\xa6'
+                                                                                b'^7\xc6W'),
+ 'libdet.kfhu3fs25wyjdcqnyby5xlnu4kjnagb5.gfortran-win_amd64.dll': bytearray(b'\x8c\x1dyH'
+                                                                             b'\xe6\n\xd9b'
+                                                                             b'm:7\xf3'
+                                                                             b'\x91\xec\x83\x95'),
+ 'libdfft_sub.rg66rn6ptkpw537skmwrdl2wf6ckucqr.gfortran-win_amd64.dll': bytearray(b'\x86h\x94\xea'
+                                                                                  b'\xb5\x7f\x0b\xd9'
+                                                                                  b'\xc5\xa4\xfa\x8d'
+                                                                                  b'Q\x08\xe3\xeb'),
+ 'libdfitpack.x6qdtsq4mrsfgskg3gh752llqq6jtuxw.gfortran-win_amd64.dll': bytearray(b'a\x1et\x1f'
+                                                                                  b'\x9f\xf9\xf8Y'
+                                                                                  b'D\x88bk'
+                                                                                  b'e\x1c\x82\xd8'),
+ 'libdgamln.mrc7os3z5pv3vslkt24jxofh6nqqu5wi.gfortran-win_amd64.dll': bytearray(b'\x03\xe4K\xe9'
+                                                                                b'\xd5\r\x98\x86'
+                                                                                b'\xe6\xa2\x11\x86'
+                                                                                b'\xc1EC\xc5'),
+ 'libdop853.6tjtqzw3i3q3qidqheobezkj3nyrxi4b.gfortran-win_amd64.dll': bytearray(b'\xa36\x8d\x0f'
+                                                                                b'X7\xf2\x1a'
+                                                                                b'\xb8\xf3\xec\n'
+                                                                                b'\x96\xca\xe77'),
+ 'libdqag.34rk5apo7vd7vd5hlfbnzkjljmtyzk4i.gfortran-win_amd64.dll': bytearray(b'\x19\xcd\r\x10'
+                                                                              b'\x90\xb4\xaf\xcd'
+                                                                              b'S\x16If'
+                                                                              b'\x9e\x99d\x10'),
+ 'libeay32.dll': bytearray(b"\xd1\xb7\xf3\x1d\xb0\x03'8\xfea\x16\xe2N\x07\xa7<"),
+ 'libegl.dll': bytearray(b')\xdf:|\xa1\x01!\x18LP\x1e\x9b\x0f\xa5\xa4\xca'),
+ 'libgetbreak.yr22bycebb7y6vcukfvy3z57b75obpgj.gfortran-win_amd64.dll': bytearray(b'*\x19\x8fl'
+                                                                                  b'\xae4\x87o'
+                                                                                  b'B\xb58D'
+                                                                                  b'\x84\xbcdN'),
+ 'libglesv2.dll': bytearray(b'\x878l3[b\xd7\x9e\xde\xc6\xad\xcff\x8d^]'),
+ 'liblbfgsb.vgeccrvuvy5lhumglcgam2tcrsyrwxlo.gfortran-win_amd64.dll': bytearray(b'\xf3\xf6\x961'
+                                                                                b'C\x04\xa4\xd5'
+                                                                                b'\xfa\xc4\xa4\x95'
+                                                                                b'\x16\xaf\xba\xc7'),
+ 'libmvndst.5vxnipapinaf5nihxafna4othopndewg.gfortran-win_amd64.dll': bytearray(b'\x10);\xc9'
+                                                                                b'\xc1\xd6\xa0['
+                                                                                b'\x8f\xa9\x9e\x96'
+                                                                                b'Iq\x18u'),
+ 'libmysql.dll': bytearray(b'\xdd\xa0\x93\xa3ctVoRN\x15\x96\x94\xfbfG'),
+ 'libnnls.ixeehjucghjl42yzem6uiemrojwxhmlj.gfortran-win_amd64.dll': bytearray(b'\x0e\xf0\xe2\xed'
+                                                                              b'\xdc\xbe\x1d\x94'
+                                                                              b'#6\xe43'
+                                                                              b'Vz\x87\x8f'),
+ 'libopenblas.pyqhxlvvq7vesdpuvuadxevjobghjpay.gfortran-win_amd64.dll': bytearray(b'\xac\xfc\x93\x93'
+                                                                                  b'\x99[D\x92'
+                                                                                  b'\xfc\xa6l\x14'
+                                                                                  b'f\xb8\xe2\xf1'),
+ 'libslsqp_op.rggn6zofd2k47x7yrndycm7jfp4agler.gfortran-win_amd64.dll': bytearray(b'\x94]I\xc5'
+                                                                                  b'}\x15\x97\xaa'
+                                                                                  b'\xe9\x83Z\xad'
+                                                                                  b'\xdc\xf6\xff\x9e'),
+ 'libspecfun.lqcthmcynuleoogkio6agree6d6v37ru.gfortran-win_amd64.dll': bytearray(b'nl\xaa\xd9'
+                                                                                 b'0\xe59\xf2'
+                                                                                 b'c*\x88\xf9'
+                                                                                 b'\x92\xf3Vg'),
+ 'libssl-1_1-x64.dll': bytearray(b'N\xc3\xc7\xfe\x06\xb1\x80\x86\xf8:\x18\xff'
+                                 b'\xbb;\x9bU'),
+ 'libssl-1_1.dll': bytearray(b'\xbcw\x8f3H\x01H\xef\xa5\xd6+.\xc8Z\xaa}'),
+ 'libvode.4h5cfd446s6ba3eb5qhfuc3tbccwkdpq.gfortran-win_amd64.dll': bytearray(b'\xd6\xc5\x8fO'
+                                                                              b'\x7f\xb0\xf5\xe1'
+                                                                              b'\xa4\xe2W\x9c'
+                                                                              b'\xce\x91c\xe6'),
+ 'libwrap_dum.52rxvmun4yvwq7t6vkp7o7ff7tv4bbl4.gfortran-win_amd64.dll': bytearray(b'\xc7<\x05\x14'
+                                                                                  b'ez\xbdU'
+                                                                                  b'c\x85\xca0'
+                                                                                  b'O\xb4 S'),
+ 'libwrap_dum.irg63l6h3ct7fk6lx5takzatnnupqmvq.gfortran-win_amd64.dll': bytearray(b'p\x7fs%'
+                                                                                  b'\xc5\xe7j\xa3'
+                                                                                  b'rmC\xa8'
+                                                                                  b'\x0f\xe2\xc9\x16'),
+ 'lxml\\_elementpath.cp37-win_amd64.pyd': bytearray(b'\x92\x08N\xf6\xb4[\xe9d'
+                                                    b'\xded\xef\xd0'
+                                                    b'1\xac\x12\x13'),
+ 'lxml\\etree.cp37-win_amd64.pyd': bytearray(b'_e\x1d\x81\xe5\xba\xd2\x03'
+                                             b'\xc9\x85W\xb3\xc4\xe5\xff['),
+ 'matplotlib\\_contour.cp37-win_amd64.pyd': bytearray(b'-vf9Z\xc2\x07\xfc'
+                                                      b'0\xb5jIZ\x97\xe5\xd7'),
+ 'matplotlib\\_image.cp37-win_amd64.pyd': bytearray(b'\xb57\x97\xfa'
+                                                    b'\x05\x902\x17n\x00\xe0\\'
+                                                    b'\xf7\x11?\xe2'),
+ 'matplotlib\\_path.cp37-win_amd64.pyd': bytearray(b'~YMI#\xbb\x01\x02'
+                                                   b'*\x17\xc6)\xb5Yu\x04'),
+ 'matplotlib\\_png.cp37-win_amd64.pyd': bytearray(b'\xa4s\xe3\xad\x167\xfc\x9b'
+                                                  b'_\x82\xd3\x8e\x19=\xca%'),
+ 'matplotlib\\_qhull.cp37-win_amd64.pyd': bytearray(b'c\x8a\xd7\xc3'
+                                                    b'\xcb\xd8\x05GuC`K'
+                                                    b'\x8a+\xeem'),
+ 'matplotlib\\_tri.cp37-win_amd64.pyd': bytearray(b'M\xc5\xaa\xc6\xbc7\xd7\x0b'
+                                                  b'\x00+\x8dEy\x8cl\xf1'),
+ 'matplotlib\\backends\\_backend_agg.cp37-win_amd64.pyd': bytearray(b'g#\xd0\x16'
+                                                                    b'\xbf\xe5\x02\x02'
+                                                                    b'hi\xa4\x9a'
+                                                                    b'c\x82\xe5/'),
+ 'matplotlib\\backends\\_tkagg.cp37-win_amd64.pyd': bytearray(b'Lr\xc7\xd9'
+                                                              b'v\xb1#\xe5'
+                                                              b'\x88\xdc>F'
+                                                              b'\xd1\x1a\x13\xb3'),
+ 'matplotlib\\ft2font.cp37-win_amd64.pyd': bytearray(b'\x88\xd9\xb7\xa1'
+                                                     b'\xb6\xa1\x9b\x9c'
+                                                     b'Y\x84\xbelb\x17\xa9q'),
+ 'matplotlib\\ttconv.cp37-win_amd64.pyd': bytearray(b'\r\xda\xa43.\xbffC'
+                                                    b"\x7f\xb2@\xb8\xfe'U\xdc"),
+ 'mfc140u.dll': bytearray(b'^\x05H\xb1\x8d\xaa\xa3x\xe3\x0f\xa5b\x82n\x90p'),
+ 'msvcp140.dll': bytearray(b'\xbc\xf8_U9"@\xe2\x11\x0b\x06\x08\xd0\xce\xf7\n'),
+ 'msvcp140_1.dll': bytearray(b'\xa0\xb5\x95\xf9[\xe9\xcc\xe1+\xff~\xf1'
+                             b'\x99\xf8t\xc4'),
+ 'numpy\\core\\_multiarray_tests.cp37-win_amd64.pyd': bytearray(b'\xf7"\xca\xd4'
+                                                                b'\xf4\xa4j\x7f'
+                                                                b'*\x16\xb0\x08'
+                                                                b'\xbar\x00]'),
+ 'numpy\\core\\_multiarray_umath.cp37-win_amd64.pyd': bytearray(b'\xd9\xd4\xa3|'
+                                                                b'\xdd2\xcc\xc6'
+                                                                b'&\x02\xcf('
+                                                                b'\x81\x02\x8e^'),
+ 'numpy\\fft\\_pocketfft_internal.cp37-win_amd64.pyd': bytearray(b'\xb8Mu\xe1'
+                                                                 b'"\xdd\xef\xe9'
+                                                                 b'\xb7\xf2+\x87'
+                                                                 b'@k\x81\xb9'),
+ 'numpy\\linalg\\_umath_linalg.cp37-win_amd64.pyd': bytearray(b'\x9dDa^"FJ]~.cx'
+                                                              b'\xa1n\xe8h'),
+ 'numpy\\linalg\\lapack_lite.cp37-win_amd64.pyd': bytearray(b'\x84\xb7\x1a\xdb'
+                                                            b'\xacu6\xef'
+                                                            b'(+\xfd\xc0'
+                                                            b'\x8a\xd0(\xa4'),
+ 'numpy\\random\\_bit_generator.cp37-win_amd64.pyd': bytearray(b'?8\xbb\xa1'
+                                                               b'\xe5\x10\xcf\x82'
+                                                               b'\x9d\xa3\xdc5'
+                                                               b'\x0e\xd4\xd2\xc0'),
+ 'numpy\\random\\_bounded_integers.cp37-win_amd64.pyd': bytearray(b'4\x03o\xf8'
+                                                                  b'\x9b\xd7\x97\x14'
+                                                                  b'\x9a)\\4'
+                                                                  b'\x15-\xc0\xc8'),
+ 'numpy\\random\\_common.cp37-win_amd64.pyd': bytearray(b'\x0c\x1b\xed1'
+                                                        b'\xe6\xdc\xa8\x13'
+                                                        b'\xd6\x92M\x7f'
+                                                        b'2\xd6\x02?'),
+ 'numpy\\random\\_generator.cp37-win_amd64.pyd': bytearray(b"\xfa\xfe'\x85"
+                                                           b'\x1d\xf5\x1d\x94'
+                                                           b'8\x0bV\xbd'
+                                                           b'\x8f\xf3\x01\xa8'),
+ 'numpy\\random\\_mt19937.cp37-win_amd64.pyd': bytearray(b'k\x7f\xd0\xdc'
+                                                         b'\x97\x05\x8d\xba'
+                                                         b'\xb0\xa0\xb9\xe9'
+                                                         b'\x9f\xb2\xc4\xe1'),
+ 'numpy\\random\\_pcg64.cp37-win_amd64.pyd': bytearray(b'\x17=\x1b\xd0'
+                                                       b'a\x12-\x19'
+                                                       b' \xe6\x93\x05'
+                                                       b'\xfa\xbd\x14\x95'),
+ 'numpy\\random\\_philox.cp37-win_amd64.pyd': bytearray(b'\xda\n\xb7h'
+                                                        b'k\xa4\xfa\x80'
+                                                        b'\xfc\xf1\xba\xc6'
+                                                        b'\x91DY-'),
+ 'numpy\\random\\_sfc64.cp37-win_amd64.pyd': bytearray(b',C.y\x89W&\xb3>uI"'
+                                                       b'\xf6\xd2\xf2z'),
+ 'numpy\\random\\mtrand.cp37-win_amd64.pyd': bytearray(b'>\xe4^\xd1'
+                                                       b'\xd0\xefz\x8c'
+                                                       b'.j\xaa\x9e\xc9"\xbe^'),
+ 'opengl32sw.dll': bytearray(b'}\xbc\x97\xbf\xee\x0cz\xc8\x9d\xa8\xd0\xc7'
+                             b'p\xc9w\xb6'),
+ 'pil\\_imaging.cp37-win_amd64.pyd': bytearray(b'\x9d35\xc7\xb8Y\x10\x85'
+                                               b'\x11\xab\xcdb\x08]u\x04'),
+ 'pil\\_imagingft.cp37-win_amd64.pyd': bytearray(b'\x9d\x83y%\x8e\x8b\xach'
+                                                 b'~K\xee\x08\xa2Q\xaa\x16'),
+ 'pil\\_imagingtk.cp37-win_amd64.pyd': bytearray(b'\x94\xa1$+|\xb9\x89e'
+                                                 b'\x8e\xd7C\xd3\x0cnf\x9f'),
+ 'pil\\_webp.cp37-win_amd64.pyd': bytearray(b'\xbcI\xb1?[n\xfeA\x1dbM\x9c'
+                                            b'P\xcb\xcdQ'),
+ 'pocketsphinx\\_pocketsphinx.cp37-win_amd64.pyd': bytearray(b'H\xba9X\x81z;F'
+                                                             b'\x9aJ\x8eA'
+                                                             b'\x044\xc9\xec'),
+ 'psutil\\_psutil_windows.cp37-win_amd64.pyd': bytearray(b'\xf3\xe7\xb5\xa1'
+                                                         b'\x99\xa9\xfc\x91'
+                                                         b'T\x13\xdd\x15\xecQ|C'),
+ 'pyexpat.pyd': bytearray(b'\xc0~A\xd2b\xaf\xd5\xeai=8\xd7!~\n\xb0'),
+ 'pyqt5\\qt\\bin\\d3dcompiler_47.dll': bytearray(b'\xb0\xae:\xa9\xdd\x1e\xbd`'
+                                                 b'\xbd\xf5\x1c\xb9H4\xcd\x04'),
+ 'pyqt5\\qt\\bin\\libeay32.dll': bytearray(b"\xd1\xb7\xf3\x1d\xb0\x03'8"
+                                           b'\xfea\x16\xe2N\x07\xa7<'),
+ 'pyqt5\\qt\\bin\\libegl.dll': bytearray(b')\xdf:|\xa1\x01!\x18LP\x1e\x9b'
+                                         b'\x0f\xa5\xa4\xca'),
+ 'pyqt5\\qt\\bin\\libglesv2.dll': bytearray(b'\x878l3[b\xd7\x9e\xde\xc6\xad\xcf'
+                                            b'f\x8d^]'),
+ 'pyqt5\\qt\\bin\\opengl32sw.dll': bytearray(b'}\xbc\x97\xbf\xee\x0cz\xc8'
+                                             b'\x9d\xa8\xd0\xc7p\xc9w\xb6'),
+ 'pyqt5\\qt\\bin\\ssleay32.dll': bytearray(b'bP\x7f\x00\x85\xc9he\xc9\xbb\x15?'
+                                           b'K\xfa\x13{'),
+ 'pyqt5\\qt\\plugins\\bearer\\qgenericbearer.dll': bytearray(b'\x06Q\xa8\x86'
+                                                             b'\xc0\xb2\xe4\xf4'
+                                                             b'\xa4\xf3Bv'
+                                                             b'\xbb\x96\x0f\xfd'),
+ 'pyqt5\\qt\\plugins\\iconengines\\qsvgicon.dll': bytearray(b'P\xba\r\xe1'
+                                                            b'\x15|\xa82'
+                                                            b'\x98\xb3\xfb\x10'
+                                                            b' s\x92~'),
+ 'pyqt5\\qt\\plugins\\imageformats\\qgif.dll': bytearray(b'Txt\xb3\x9em\xdb\xd6'
+                                                         b'\x82/\xee\xd6'
+                                                         b'\xa6\xd6\xe7w'),
+ 'pyqt5\\qt\\plugins\\imageformats\\qicns.dll': bytearray(b'\xc8\xee\x00\x00'
+                                                          b'\xd6l\xcf\xa0'
+                                                          b"'\xbc\xd9\xbe"
+                                                          b'\xbf\xd7\xbc\xfd'),
+ 'pyqt5\\qt\\plugins\\imageformats\\qico.dll': bytearray(b'\x83\x1d\xf5K'
+                                                         b'\x15\xa2\xce\xe6'
+                                                         b'\x03\r~f'
+                                                         b'\x15\x84W\x18'),
+ 'pyqt5\\qt\\plugins\\imageformats\\qjpeg.dll': bytearray(b'\x83P\xea\xf0'
+                                                          b'\xc6\xa19b'
+                                                          b'\x7fA\x9a|'
+                                                          b'\xfa\xb6]\xba'),
+ 'pyqt5\\qt\\plugins\\imageformats\\qsvg.dll': bytearray(b'%A\xeb_\x02\xbah '
+                                                         b'\xf8\xe3\xe5\xa9'
+                                                         b'L\xcd2\xcf'),
+ 'pyqt5\\qt\\plugins\\imageformats\\qtga.dll': bytearray(b'J\x94\x1c\xe7~\x85(Z'
+                                                         b'\x1f\xc9\xe7K'
+                                                         b'\r\x15bR'),
+ 'pyqt5\\qt\\plugins\\imageformats\\qtiff.dll': bytearray(b'<\xd9\xd4\xbc'
+                                                          b'\xf5\x04!\xd3'
+                                                          b'\x18if*\xd9E$\xa2'),
+ 'pyqt5\\qt\\plugins\\imageformats\\qwbmp.dll': bytearray(b'\xcf\xd3\xfd\xb9'
+                                                          b'\xaf-\x12\xde'
+                                                          b'\xd1\x87\x93='
+                                                          b'N\xbf\xcb\xc5'),
+ 'pyqt5\\qt\\plugins\\imageformats\\qwebp.dll': bytearray(b'\x7f\xaa\xd4\xfb'
+                                                          b'\xa8\xd0\xe4s'
+                                                          b'7z\xfe&'
+                                                          b'\xae\x0f\xed\xf7'),
+ 'pyqt5\\qt\\plugins\\platforms\\qminimal.dll': bytearray(b'\xa0V\x07\xa3'
+                                                          b'\xc0\xb8\xf1\x9d'
+                                                          b'\x94\xb7\x87\xe2'
+                                                          b'\xef\xf0\xd1J'),
+ 'pyqt5\\qt\\plugins\\platforms\\qoffscreen.dll': bytearray(b'd.GW%-\xf5\xf6'
+                                                            b'\x94`\x057'
+                                                            b'\x14\x88|x'),
+ 'pyqt5\\qt\\plugins\\platforms\\qwebgl.dll': bytearray(b'\xb5\xa3\xc8\x94'
+                                                        b'0\x96I\x8f'
+                                                        b'\xd8^\xab\xc2'
+                                                        b'\x93Y\xe0)'),
+ 'pyqt5\\qt\\plugins\\platforms\\qwindows.dll': bytearray(b'\x1c\x01e@'
+                                                          b'\xbd\x10\xb6\xf4'
+                                                          b's\x02\r\x92'
+                                                          b'\xb0!\xff\xf6'),
+ 'pyqt5\\qt\\plugins\\platformthemes\\qxdgdesktopportal.dll': bytearray(b'\x88\xdc\xd2Q'
+                                                                        b'\x9c\xf7\x05\x17'
+                                                                        b'\xb7\x92\xc2\xaa'
+                                                                        b'z\xcd\xd3\x00'),
+ 'pyqt5\\qt\\plugins\\position\\qtposition_positionpoll.dll': bytearray(b'\x16\xa2\n\xf4'
+                                                                        b'\xbf%\x9e\x11'
+                                                                        b'\xc7`d\xce'
+                                                                        b'|Fw\xc0'),
+ 'pyqt5\\qt\\plugins\\position\\qtposition_serialnmea.dll': bytearray(b'\xf9\xb2\x84\xa1'
+                                                                      b'\xb4\xf9s\x88'
+                                                                      b'je;\x8c'
+                                                                      b'\xcbb\xde\xef'),
+ 'pyqt5\\qt\\plugins\\position\\qtposition_winrt.dll': bytearray(b'\x9c\x1eD\xe7'
+                                                                 b'\x95\xdb\x82j'
+                                                                 b'\xf9\xae\xfc\x9e'
+                                                                 b'J\x860{'),
+ 'pyqt5\\qt\\plugins\\printsupport\\windowsprintersupport.dll': bytearray(b'\x94\x18\x16\xe1'
+                                                                          b'\x87F\xd0\x97'
+                                                                          b'_\xcf\x13\xce'
+                                                                          b'\xff.\xad\x1d'),
+ 'pyqt5\\qt\\plugins\\sqldrivers\\qsqlite.dll': bytearray(b'\xa6\x89\x7f\x05'
+                                                          b'R\x90\x074'
+                                                          b'^a\xc0\xff'
+                                                          b'\x8d\xc7\xa7['),
+ 'pyqt5\\qt\\plugins\\sqldrivers\\qsqlmysql.dll': bytearray(b'\xf0\xfb<X'
+                                                            b'\xab\xcb\x15\x8f'
+                                                            b'\x13\xd0I\x0c'
+                                                            b'\xe5@Z\x19'),
+ 'pyqt5\\qt\\plugins\\sqldrivers\\qsqlodbc.dll': bytearray(b'\xfc\xa2\x99\x99'
+                                                           b'2}Yvi\x8dk\t'
+                                                           b'\x82\x9a\xd2\x0e'),
+ 'pyqt5\\qt\\plugins\\sqldrivers\\qsqlpsql.dll': bytearray(b'\x9e9sk,D$k'
+                                                           b'c\xcfS\xd4'
+                                                           b'\xe1J\xce\x15'),
+ 'pyqt5\\qt\\plugins\\styles\\qwindowsvistastyle.dll': bytearray(b'Ll=f'
+                                                                 b'\t\x1e\xfa\x96'
+                                                                 b'{\xf1\x02\xf6'
+                                                                 b'\xfcU\xe9\xb7'),
+ 'pyqt5\\qt\\qml\\qt\\labs\\calendar\\qtlabscalendarplugin.dll': bytearray(b'mm\x82\xdb'
+                                                                           b'e\x1b\x10\xea'
+                                                                           b'\x0bK\x8a@'
+                                                                           b'p;\xd8\x1b'),
+ 'pyqt5\\qt\\qml\\qt\\labs\\folderlistmodel\\qmlfolderlistmodelplugin.dll': bytearray(b'\x03V_\x99'
+                                                                                      b'\xad\xb2<\x11'
+                                                                                      b'\xfb`X\x17'
+                                                                                      b'\x80\x92\xb2\xcc'),
+ 'pyqt5\\qt\\qml\\qt\\labs\\location\\locationlabsplugin.dll': bytearray(b';9\xad\xbd'
+                                                                         b'\xcc\x12\xce1'
+                                                                         b'T\xf9$A'
+                                                                         b';\x97X\xf9'),
+ 'pyqt5\\qt\\qml\\qt\\labs\\platform\\qtlabsplatformplugin.dll': bytearray(b'\xf0.R&'
+                                                                           b'\xde\x8e=\x86'
+                                                                           b'yDtq'
+                                                                           b'\x990L\xdf'),
+ 'pyqt5\\qt\\qml\\qt\\labs\\qmlmodels\\labsmodelsplugin.dll': bytearray(b'o\x96 \x02'
+                                                                        b'\xb5C\xa40'
+                                                                        b'D\xea\x05\x8b'
+                                                                        b'*>\xb0\xa5'),
+ 'pyqt5\\qt\\qml\\qt\\labs\\settings\\qmlsettingsplugin.dll': bytearray(b'#(OS'
+                                                                        b'w\xb3\xd5\xd4'
+                                                                        b'\xe9b\x94B'
+                                                                        b'\x8bR\xa4D'),
+ 'pyqt5\\qt\\qml\\qt\\labs\\sharedimage\\sharedimageplugin.dll': bytearray(b'\xa5&K\xe7'
+                                                                           b'\x9d\x91J\xcb'
+                                                                           b'\xcd\xdeW\xb9'
+                                                                           b'\x1c\x1e\xe0\xe0'),
+ 'pyqt5\\qt\\qml\\qt\\labs\\wavefrontmesh\\qmlwavefrontmeshplugin.dll': bytearray(b'\x18\x8f$\xf5'
+                                                                                  b'\x84\xa5\x96\x1d'
+                                                                                  b'\xec\xe1\xf4i'
+                                                                                  b'\xc5\x18\xa3\x1e'),
+ 'pyqt5\\qt\\qml\\qtbluetooth\\declarative_bluetooth.dll': bytearray(b'-g\x17\xc7'
+                                                                     b'?\xd0\xe5\xc2'
+                                                                     b'\xc4\x93B\x9f'
+                                                                     b'H\xc7\xba>'),
+ 'pyqt5\\qt\\qml\\qtgraphicaleffects\\private\\qtgraphicaleffectsprivate.dll': bytearray(b'\xb5\xaaK\xb1'
+                                                                                         b'\x04!\x925'
+                                                                                         b'\xacf4\xa9'
+                                                                                         b'!\x9e\x90\xce'),
+ 'pyqt5\\qt\\qml\\qtgraphicaleffects\\qtgraphicaleffectsplugin.dll': bytearray(b'\x17\x1d\x05;'
+                                                                               b'\xe6g$/'
+                                                                               b'\xd3\xeb\t\x0e'
+                                                                               b'\xc8\x0fil'),
+ 'pyqt5\\qt\\qml\\qtlocation\\declarative_location.dll': bytearray(b'\xd5\xb8\xd1`'
+                                                                   b'{\x0fQ\xbb'
+                                                                   b'\n\x15\x19t'
+                                                                   b'\xd9\x04ar'),
+ 'pyqt5\\qt\\qml\\qtmultimedia\\declarative_multimedia.dll': bytearray(b'\xba\x1e5\xc7'
+                                                                       b'\x1c\xf5\xef;'
+                                                                       b'f\xbe\t-'
+                                                                       b'd\xc3\xee\xb7'),
+ 'pyqt5\\qt\\qml\\qtnfc\\declarative_nfc.dll': bytearray(b'\xcc\xd38\xe9'
+                                                         b'\x15\x9d\x01\xcf'
+                                                         b'\xc5!\xaf`'
+                                                         b'\x8d\x9dL\xef'),
+ 'pyqt5\\qt\\qml\\qtpositioning\\declarative_positioning.dll': bytearray(b'*\xae\xff\xb6'
+                                                                         b'\x8c\xbf\xad\xe1'
+                                                                         b'\x7f\xcbI\x81'
+                                                                         b'G \xfc\x82'),
+ 'pyqt5\\qt\\qml\\qtqml\\models.2\\modelsplugin.dll': bytearray(b'\xfc\x86\x12\xc0'
+                                                                b'a\x9b[\xce'
+                                                                b'\xd0G\xd4\x15'
+                                                                b'\xf4\xa7L\xb5'),
+ 'pyqt5\\qt\\qml\\qtqml\\remoteobjects\\qtqmlremoteobjects.dll': bytearray(b'\xbe\x06\xda^'
+                                                                           b'9\xa7\xf7Q'
+                                                                           b'\xe9\xf6\xd2\x0b'
+                                                                           b'A(x+'),
+ 'pyqt5\\qt\\qml\\qtqml\\statemachine\\qtqmlstatemachine.dll': bytearray(b'y\xef\xad\x8b'
+                                                                         b'4\x90\xde\x12'
+                                                                         b'\xf1w\xbe\xbe'
+                                                                         b'\x91*@\x14'),
+ 'pyqt5\\qt\\qml\\qtquick.2\\qtquick2plugin.dll': bytearray(b'\xcf\xbd6r'
+                                                            b'\xba\x0f\x81\x1b'
+                                                            b'@\x86D\xb1'
+                                                            b'6\x87\x01\x1a'),
+ 'pyqt5\\qt\\qml\\qtquick\\controls.2\\fusion\\qtquickcontrols2fusionstyleplugin.dll': bytearray(b't!\xd5W'
+                                                                                                 b'\xa3~\xab\xb7'
+                                                                                                 b'2\xdd\x0f\x92'
+                                                                                                 b'\x1b\xae\x98\xca'),
+ 'pyqt5\\qt\\qml\\qtquick\\controls.2\\imagine\\qtquickcontrols2imaginestyleplugin.dll': bytearray(b'i\xe2\xf9N'
+                                                                                                   b'\xb06\x9c\x8f'
+                                                                                                   b'\x9b\\\x82\xc2'
+                                                                                                   b'\xe6\x81\x0e\xca'),
+ 'pyqt5\\qt\\qml\\qtquick\\controls.2\\material\\qtquickcontrols2materialstyleplugin.dll': bytearray(b':j\xdaY'
+                                                                                                     b'\xc5\xb3\xe3\xc1'
+                                                                                                     b'\xab\xa1\xa5d'
+                                                                                                     b'c\xd9v\xd5'),
+ 'pyqt5\\qt\\qml\\qtquick\\controls.2\\qtquickcontrols2plugin.dll': bytearray(b'm\xec\x8c\xc3'
+                                                                              b'\xc7\xcc\xda\xd7'
+                                                                              b'Q\x06\x90\x97'
+                                                                              b'\xbe\x9e[7'),
+ 'pyqt5\\qt\\qml\\qtquick\\controls.2\\universal\\qtquickcontrols2universalstyleplugin.dll': bytearray(b'\x96\xca\x8f\xb0'
+                                                                                                       b'\x8b\x8c\x08\x96'
+                                                                                                       b'\xe34S\r'
+                                                                                                       b'\xa6\xc3u\xe1'),
+ 'pyqt5\\qt\\qml\\qtquick\\controls\\qtquickcontrolsplugin.dll': bytearray(b')@\x14q'
+                                                                           b'F\x84e\xf0'
+                                                                           b'\xa04\x9e"'
+                                                                           b'\x08\xa8C\xea'),
+ 'pyqt5\\qt\\qml\\qtquick\\controls\\styles\\flat\\qtquickextrasflatplugin.dll': bytearray(b'c\x15\x1c\xd0'
+                                                                                           b'\xa4\x99\xc1\xab'
+                                                                                           b'o\x17\xe2h'
+                                                                                           b"\xab'\x9f\xe8"),
+ 'pyqt5\\qt\\qml\\qtquick\\dialogs\\dialogplugin.dll': bytearray(b'\xa9\xb2\xf9\xef'
+                                                                 b'Q4:@'
+                                                                 b'\x1a\x1d\xda\xee'
+                                                                 b'm0\xcf&'),
+ 'pyqt5\\qt\\qml\\qtquick\\dialogs\\private\\dialogsprivateplugin.dll': bytearray(b'\xe8\xaf\xb3D'
+                                                                                  b'\x10\x0e\x99\xf4'
+                                                                                  b'\x9d/\x7f"'
+                                                                                  b'\xb2\xf1\xb9='),
+ 'pyqt5\\qt\\qml\\qtquick\\extras\\qtquickextrasplugin.dll': bytearray(b'\xb9\xc1"\xd1'
+                                                                       b'l\t\n\x05'
+                                                                       b'\x8fvq!'
+                                                                       b'\xed?\xfb\xa0'),
+ 'pyqt5\\qt\\qml\\qtquick\\layouts\\qquicklayoutsplugin.dll': bytearray(b'3\xdbZd'
+                                                                        b'\xa8\xc6)G'
+                                                                        b'\xf8\xaa\xc5U'
+                                                                        b'\xf8\\\xa4\x87'),
+ 'pyqt5\\qt\\qml\\qtquick\\localstorage\\qmllocalstorageplugin.dll': bytearray(b'\x05\x1b\xd7j'
+                                                                               b'\x15\xc7<\x92'
+                                                                               b"\x89h\xe8'"
+                                                                               b'\xc2.\xe19'),
+ 'pyqt5\\qt\\qml\\qtquick\\particles.2\\particlesplugin.dll': bytearray(b'#\x1f1\xba'
+                                                                        b'i\xa1\xe8\xc4'
+                                                                        b'\xbb^\x1e\xb5'
+                                                                        b'\x0b|\x9b\xc5'),
+ 'pyqt5\\qt\\qml\\qtquick\\privatewidgets\\widgetsplugin.dll': bytearray(b'u=\x1e\x91'
+                                                                         b'\xfd\x80hz'
+                                                                         b'\xbe\xc7\xf2\xe2'
+                                                                         b'O\xbc\xbde'),
+ 'pyqt5\\qt\\qml\\qtquick\\scene2d\\qtquickscene2dplugin.dll': bytearray(b'=\xc7d\xde'
+                                                                         b'W\xda\x00J'
+                                                                         b']\x0b\xe6V'
+                                                                         b'\xac\xce\x00\xa9'),
+ 'pyqt5\\qt\\qml\\qtquick\\scene3d\\qtquickscene3dplugin.dll': bytearray(b'\x91\xd5f\xbd'
+                                                                         b'\xd2\xeb\xca\x1c'
+                                                                         b'?\xa47\x7f'
+                                                                         b'\xddzu4'),
+ 'pyqt5\\qt\\qml\\qtquick\\shapes\\qmlshapesplugin.dll': bytearray(b'\rLu\xee'
+                                                                   b'\xbc\x1f{\x89'
+                                                                   b'H\xd4w\xba'
+                                                                   b'WFu\x87'),
+ 'pyqt5\\qt\\qml\\qtquick\\templates.2\\qtquicktemplates2plugin.dll': bytearray(b'C\xca.\x8f'
+                                                                                b'\x9f\xf5\xea\x91'
+                                                                                b'\x89\xde\x9d\xb1'
+                                                                                b';\x1e\xf8v'),
+ 'pyqt5\\qt\\qml\\qtquick\\window.2\\windowplugin.dll': bytearray(b'\xf9K\x84\xcc'
+                                                                  b'Y\xb2F\xea'
+                                                                  b'\xa8\xcd\xb0\x89'
+                                                                  b'-H\xc4\x98'),
+ 'pyqt5\\qt\\qml\\qtquick\\xmllistmodel\\qmlxmllistmodelplugin.dll': bytearray(b'\xcem\x7f\x17'
+                                                                               b'AZS\x05'
+                                                                               b'\xbf\xa2\xc7\xdb'
+                                                                               b'\xb3\x8b^O'),
+ 'pyqt5\\qt\\qml\\qtsensors\\declarative_sensors.dll': bytearray(b'@\xda\x9a\x00'
+                                                                 b'\x07\xd4\xb0\x82'
+                                                                 b'\xceL7J'
+                                                                 b'\xa5\x93\xfb\xe4'),
+ 'pyqt5\\qt\\qml\\qttest\\qmltestplugin.dll': bytearray(b'\xc3\x10D\x15'
+                                                        b'Q\x86\xd2\xd9'
+                                                        b'N\x8b\xc7\x14'
+                                                        b'\xc3\xf1\xe5\xda'),
+ 'pyqt5\\qt\\qml\\qtwebchannel\\declarative_webchannel.dll': bytearray(b'{\xbe\x9d\xe5'
+                                                                       b'\xdf\xbbV;'
+                                                                       b'\xa9\x0c\xf4\xfb'
+                                                                       b'\xaf\xa0\xebd'),
+ 'pyqt5\\qt\\qml\\qtwebengine\\qtwebengineplugin.dll': bytearray(b'T\x1b"\x18'
+                                                                 b'i\xd9\xa3\x86'
+                                                                 b'Rn\xe0e'
+                                                                 b'm\xb8N\xbd'),
+ 'pyqt5\\qt\\qml\\qtwebsockets\\declarative_qmlwebsockets.dll': bytearray(b'i4\x08\xde'
+                                                                          b'\xa30\x04t'
+                                                                          b'j\x02e\x85'
+                                                                          b'\x80\xca1s'),
+ 'pyqt5\\qtcore.pyd': bytearray(b'\xda\xe4\xa5\x1eS\xa9\xfa\x84s\xf6\x93\x0c'
+                                b'\xbfp\x88\xfa'),
+ 'pyqt5\\qtgui.pyd': bytearray(b'\x04\xad\xcf:\xd6\xe0\x85D\xc6~\xb3\r'
+                               b'x\xb4\x99d'),
+ 'pyqt5\\qtnetwork.pyd': bytearray(b'\xdb\xae\x8a\x85\xbfXw\x7f3\x8d\xa8\xd2'
+                                   b'K\xef\x95x'),
+ 'pyqt5\\qtpositioning.pyd': bytearray(b"\xa1\x9fl\xf4\x99t3=\xde'\xd7\xc2"
+                                       b'\x0b+\x04\xe6'),
+ 'pyqt5\\qtprintsupport.pyd': bytearray(b'W\xeb\t\xb7\xd6\x87\xe4rms\xdcK'
+                                        b'd\x1e\xfa\x13'),
+ 'pyqt5\\qtqml.pyd': bytearray(b'\xeb\xff\xda\x82\x8b\xdf\x85\xc3\x96/\x1e\x80'
+                               b'\xf8\xe8<\xa4'),
+ 'pyqt5\\qtquick.pyd': bytearray(b'8\x86\xb0\xd7\x851\x9b\xb6h\x10\xeer'
+                                 b'|x\xd7\xf1'),
+ 'pyqt5\\qtquickwidgets.pyd': bytearray(b'\x8b+\xfd\xf7q\x08\xe2&'
+                                        b'\xdb\xd1\x15\xe4\x85\x84\xd8\xe3'),
+ 'pyqt5\\qtsql.pyd': bytearray(b'x\xda\x12!$\x167\x86g\r=O\t8\xcb}'),
+ 'pyqt5\\qtwebchannel.pyd': bytearray(b'{\x91|9\r\x07\x00\xbaQ|\xff1\xbaX\x1c.'),
+ 'pyqt5\\qtwebenginecore.pyd': bytearray(b'\xc7\xb9\xe5\t!\x9d)p,\\\x82/'
+                                         b'\x80\xaaVS'),
+ 'pyqt5\\qtwebenginewidgets.pyd': bytearray(b'\xb8\xea\x8e\xd6Z>\x7f\x1c'
+                                            b'\xe6\xaaQ=\xedV\xc8%'),
+ 'pyqt5\\qtwidgets.pyd': bytearray(b'\xb5\x87\xa9\x15\xe1\xfai\xec'
+                                   b'\x9c\xa5\xfc\xbeb\xd7\xe8\xf8'),
+ 'pyqt5\\sip.cp37-win_amd64.pyd': bytearray(b'\xbe\xbb\x8b\xb6\xbc\x96Y\xc8'
+                                            b'z\xd9|>[2;\x98'),
+ 'pyqt5\\sip.pyd': bytearray(b'\x96\xf9\x98\xeb\xda#\xbeo\xab{O\x10'
+                             b'\x8b\xc3Q\xb4'),
+ 'pyside2.abi3.dll': bytearray(b'f\x8b\xfa$3\x08\x12\x08\x97]\x04\xe2%k3\xb0'),
+ 'pyside2\\plugins\\iconengines\\qsvgicon.dll': bytearray(b'iU+i\xbfc\x8f\xee'
+                                                          b'\x15\x17.o'
+                                                          b'\x05\x05\x16\x1f'),
+ 'pyside2\\plugins\\imageformats\\qgif.dll': bytearray(b'\x8d:\xfc\xa5'
+                                                       b'\xaa\x11\x0b\xb2'
+                                                       b'h\x08\xcay'
+                                                       b'\xb1\xe2?\x15'),
+ 'pyside2\\plugins\\imageformats\\qicns.dll': bytearray(b']\r\x98\xe5'
+                                                        b'\xc5\x16\xdf\xc1'
+                                                        b'\xc4\x9f\xce\xea'
+                                                        b'\x1dZQ\xdf'),
+ 'pyside2\\plugins\\imageformats\\qico.dll': bytearray(b'\xdd\xd8\x7f\x88'
+                                                       b'\xccqX\xf6x\xbc0\xf9'
+                                                       b'&|\xb0p'),
+ 'pyside2\\plugins\\imageformats\\qjpeg.dll': bytearray(b'\xca\xb1E\xe8'
+                                                        b'\t\xde\xcd\xed86G#'
+                                                        b'\xbah\tT'),
+ 'pyside2\\plugins\\imageformats\\qpdf.dll': bytearray(b'\x99\x9d\xc3\xec'
+                                                       b'\xda\xc1\xbe\x8e'
+                                                       b'\x84K\xeb2\x08&e\xc9'),
+ 'pyside2\\plugins\\imageformats\\qsvg.dll': bytearray(b'\xbb\x182\xec'
+                                                       b'\t\xc2\xe1\x13'
+                                                       b'\xdd\x84\xac\xcf'
+                                                       b'u\x8b\x05!'),
+ 'pyside2\\plugins\\imageformats\\qtga.dll': bytearray(b'\xc7\x06\xca\x81'
+                                                       b'^\x95\x84\x81'
+                                                       b'?\xdeM\x16HQ\xf9`'),
+ 'pyside2\\plugins\\imageformats\\qtiff.dll': bytearray(b'\x1d<kek\xed\xd0>'
+                                                        b'\xa4\xd3\x1f5'
+                                                        b'\xc3Mu\x98'),
+ 'pyside2\\plugins\\imageformats\\qwbmp.dll': bytearray(b'\xbfOX~\x87\x1eB\x1a'
+                                                        b'\xae\xe8\x11\xe8'
+                                                        b'8\x9d\xc6\xa2'),
+ 'pyside2\\plugins\\imageformats\\qwebp.dll': bytearray(b'\x82\xb3\xb9\xb9'
+                                                        b'(ep\x9f\x95\x967/'
+                                                        b'\xa8\x80la'),
+ 'pyside2\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll': bytearray(b'\xd2\xf3\xf8['
+                                                                                   b',Q\xa8\xb7'
+                                                                                   b'\xfcl\xddM'
+                                                                                   b'X\xe3R\x9c'),
+ 'pyside2\\plugins\\platforms\\qminimal.dll': bytearray(b'\xcf?(A\x8b\x17=\xbf'
+                                                        b'\x89\x16\xf2\xec'
+                                                        b'\x10\xc7Q\xfc'),
+ 'pyside2\\plugins\\platforms\\qoffscreen.dll': bytearray(b'8\xe6\xb8\xb6'
+                                                          b'\xe3>\xce\n'
+                                                          b'LO\x88\x91'
+                                                          b'\xe9\xaf\x1e\xf4'),
+ 'pyside2\\plugins\\platforms\\qwebgl.dll': bytearray(b'3)\xd0\xfa\xbaj\xa7!'
+                                                      b'm\x02\xc7\xfa'
+                                                      b'\x84\xa9\xb3\xa4'),
+ 'pyside2\\plugins\\platforms\\qwindows.dll': bytearray(b'\xdb\xc3\xd2h'
+                                                        b'\xbap\xab\x9e'
+                                                        b'\xa3\x01\xf0]'
+                                                        b'\x80\xc5\x85\xe9'),
+ 'pyside2\\plugins\\platformthemes\\qxdgdesktopportal.dll': bytearray(b'<M\x08e'
+                                                                      b'q\xbfn\x1f'
+                                                                      b'l\xe1\x10\xf3'
+                                                                      b'\x1f\xcdy\x0e'),
+ 'pyside2\\plugins\\styles\\qwindowsvistastyle.dll': bytearray(b'\xae\x94>o'
+                                                               b'`\xa7\xb7\x01'
+                                                               b'\x89\xdb\x97\xd1'
+                                                               b'\xf7#\xa5\xd1'),
+ 'pyside2\\qtcore.pyd': bytearray(b'1\x0eW\xeb\xed\x85\xfa\x7f\xa8$\xee.'
+                                  b'p\x10\x03A'),
+ 'pyside2\\qtgui.pyd': bytearray(b'\\\xf7mK\xd3\x90 \xd7\x00\x92`o\x81\x9d\x9fk'),
+ 'pyside2\\qtnetwork.pyd': bytearray(b'\xe6\xa7\xe5^\xfa\xb3&\xb3\xa3^\x14\xeb'
+                                     b'\x84\xbe\x91\xb7'),
+ 'python3.dll': bytearray(b'\x99\xdb\xd6\x1e\x8f\x7f\x81\x81\x89( }'
+                          b'\x8b\x12\t\xba'),
+ 'python37.dll': bytearray(b'b\x12Zx\xb9\xbeZ\xc5\x8c;UA?\x08P('),
+ 'pythoncom37.dll': bytearray(b'\xab|\xfbC\xa7\x14O\xce6I\xb61\xb6\xfe\xdc\x0f'),
+ 'pywintypes37.dll': bytearray(b'\x16\x9d\xdd7Hl\xb2\x8e\x12\xaf\xa1\xdb'
+                               b',\xfc\x1bA'),
+ 'qt53danimation.dll': bytearray(b'r\x08\xfd\xbceE\xb3>\xa5\x0f@e\x04;\xddF'),
+ 'qt53dcore.dll': bytearray(b'\xf6\xdb\xb4M\xb8 9+y(\xf2\xf2\xdc\x901['),
+ 'qt53dinput.dll': bytearray(b'R4\xf0\x87\xcci\xf4O\xcc$r\\_\xed\xe8\xc1'),
+ 'qt53dlogic.dll': bytearray(b'\x14\xb3\x10F\xce\x16\x7f\xdb\xdb\xd7$\xcd'
+                             b'!\x06%\xb9'),
+ 'qt53dquickscene2d.dll': bytearray(b'\xfc\xb3\x14\xba\xa1P;\xc8\xb3;\xd7\xbe'
+                                    b'\xe7)\xf8D'),
+ 'qt53drender.dll': bytearray(b'\xeb\xcf!\xe3\xaa\xaa\xaf\x1fF\xcd\xd5g'
+                              b'\xddY\xc1{'),
+ 'qt5_plugins\\bearer\\qgenericbearer.dll': bytearray(b'\xf5M\x82\x02fx\xf34'
+                                                      b'\xd3\xd8\x96]\x83y\xbdR'),
+ 'qt5_plugins\\iconengines\\qsvgicon.dll': bytearray(b'iU+i\xbfc\x8f\xee'
+                                                     b'\x15\x17.o'
+                                                     b'\x05\x05\x16\x1f'),
+ 'qt5_plugins\\imageformats\\qgif.dll': bytearray(b'\x8d:\xfc\xa5'
+                                                  b'\xaa\x11\x0b\xb2h\x08\xcay'
+                                                  b'\xb1\xe2?\x15'),
+ 'qt5_plugins\\imageformats\\qicns.dll': bytearray(b']\r\x98\xe5'
+                                                   b'\xc5\x16\xdf\xc1'
+                                                   b'\xc4\x9f\xce\xea\x1dZQ\xdf'),
+ 'qt5_plugins\\imageformats\\qico.dll': bytearray(b'\xdd\xd8\x7f\x88\xccqX\xf6'
+                                                  b'x\xbc0\xf9&|\xb0p'),
+ 'qt5_plugins\\imageformats\\qjpeg.dll': bytearray(b'\xca\xb1E\xe8'
+                                                   b'\t\xde\xcd\xed86G#\xbah\tT'),
+ 'qt5_plugins\\imageformats\\qpdf.dll': bytearray(b'\x99\x9d\xc3\xec'
+                                                  b'\xda\xc1\xbe\x8e\x84K\xeb2'
+                                                  b'\x08&e\xc9'),
+ 'qt5_plugins\\imageformats\\qsvg.dll': bytearray(b'\xbb\x182\xec\t\xc2\xe1\x13'
+                                                  b'\xdd\x84\xac\xcfu\x8b\x05!'),
+ 'qt5_plugins\\imageformats\\qtga.dll': bytearray(b'\xc7\x06\xca\x81'
+                                                  b'^\x95\x84\x81?\xdeM\x16'
+                                                  b'HQ\xf9`'),
+ 'qt5_plugins\\imageformats\\qtiff.dll': bytearray(b'\x1d<kek\xed\xd0>'
+                                                   b'\xa4\xd3\x1f5\xc3Mu\x98'),
+ 'qt5_plugins\\imageformats\\qwbmp.dll': bytearray(b'\xbfOX~\x87\x1eB\x1a'
+                                                   b'\xae\xe8\x11\xe8'
+                                                   b'8\x9d\xc6\xa2'),
+ 'qt5_plugins\\imageformats\\qwebp.dll': bytearray(b'\x82\xb3\xb9\xb9(ep\x9f'
+                                                   b'\x95\x967/\xa8\x80la'),
+ 'qt5_plugins\\platforms\\qminimal.dll': bytearray(b'\xcf?(A\x8b\x17=\xbf'
+                                                   b'\x89\x16\xf2\xec'
+                                                   b'\x10\xc7Q\xfc'),
+ 'qt5_plugins\\platforms\\qoffscreen.dll': bytearray(b'8\xe6\xb8\xb6\xe3>\xce\n'
+                                                     b'LO\x88\x91'
+                                                     b'\xe9\xaf\x1e\xf4'),
+ 'qt5_plugins\\platforms\\qwebgl.dll': bytearray(b'3)\xd0\xfa\xbaj\xa7!'
+                                                 b'm\x02\xc7\xfa'
+                                                 b'\x84\xa9\xb3\xa4'),
+ 'qt5_plugins\\platforms\\qwindows.dll': bytearray(b'\xdb\xc3\xd2h\xbap\xab\x9e'
+                                                   b'\xa3\x01\xf0]'
+                                                   b'\x80\xc5\x85\xe9'),
+ 'qt5_plugins\\styles\\qwindowsvistastyle.dll': bytearray(b'\xae\x94>o'
+                                                          b'`\xa7\xb7\x01'
+                                                          b'\x89\xdb\x97\xd1'
+                                                          b'\xf7#\xa5\xd1'),
+ 'qt5bluetooth.dll': bytearray(b';\x15ln\xc6\r\xb9</\xca\x8a\xf5k0\xa2M'),
+ 'qt5concurrent.dll': bytearray(b'\xbfqPbT\x05\\\x17\x97\xb1\xc7>\xf5`P\x1e'),
+ 'qt5core.dll': bytearray(b'7\x04\xce\x99\xc63A[`\x9f\xc5~\x12\xf6 \xf8'),
+ 'qt5dbus.dll': bytearray(b'\xb2\x1a+\xad\x10\x9c\x187Y\x9aD\xb9\xc1\x93<a'),
+ 'qt5gamepad.dll': bytearray(b'kr\x12\xcf\xb77\xafm\xf1\x0f\x93\xb5'
+                             b'\xef\xab\xf0\x9a'),
+ 'qt5gui.dll': bytearray(b'h\x00\x8c4\xb5c\xdc\xca$O\xb8\xb1\xf3\xdb\xc5\xcb'),
+ 'qt5location.dll': bytearray(b'a\xc3\x87T\xf2\xe8\xb5\x9fw\xe2\x003Hs\x1d\x86'),
+ 'qt5multimedia.dll': bytearray(b'\xfd>~\xc2\x1c\x82J+f\x07eG%\xf8\xa1\x03'),
+ 'qt5multimediaquick.dll': bytearray(b'\xcb\xde\x13\xd3Z\xf1\x00\r\x15D\xb3\n'
+                                     b'\x8e\xa25\xc1'),
+ 'qt5network.dll': bytearray(b'\xa9\xa0mp\xcaw\xaa\x10tP\x91OtF}\xda'),
+ 'qt5nfc.dll': bytearray(b'\x94\xcc\xc6\x8e\xf7v\xf6(94*\xb1zp\x0e\x92'),
+ 'qt5pdf.dll': bytearray(b'\x95\xc714\x90\xd9w)\xec,p\x1b\x13\xab\x0f\xb6'),
+ 'qt5positioning.dll': bytearray(b'Q^\xd1\n\x80\x92\xb6*\x97\x93\xab\x16'
+                                 b'\x1d\x03\n&'),
+ 'qt5positioningquick.dll': bytearray(b'XA\xac\x083\x06\xec\xecT\xe0\x1a\x9e'
+                                      b'.\xe8J\xd4'),
+ 'qt5printsupport.dll': bytearray(b'\xbb\xcf\x91;i\x8f\xfa\x822&\xf9)\xc8"-\xd7'),
+ 'qt5qml.dll': bytearray(b'!1\xa9\xfc\xe1Z)\xa1\x9d\x84"\x992\xf0\xac\xb8'),
+ 'qt5qmlmodels.dll': bytearray(b'!\x7f)\xecG@\x89\x04\x08\xf9\x9f\xfdE^\xd97'),
+ 'qt5quick.dll': bytearray(b'\xc9\xec\xbc`\xe8^"\xc1 \xc8\xd8\xb3\xf9`\x84\x80'),
+ 'qt5quickcontrols2.dll': bytearray(b'\x14V\xea\xf5p\xd6Yvb0\xd7\xb2'
+                                    b'\xbf\xbbN\xf9'),
+ 'qt5quickparticles.dll': bytearray(b'&u\xa7\xca\xbf\xac\xed\xf4'
+                                    b'\x0b\xc8\x96\xdd\xa2\xea`\x95'),
+ 'qt5quickshapes.dll': bytearray(b'L\x869\xf2E\xd0\x0e\xbaQ\x9c\xb2).\xa6\xa28'),
+ 'qt5quicktemplates2.dll': bytearray(b'\x08\xc6\xeemH~+\xebI\xa2\xf2\xa6'
+                                     b'\xed_\x91\x0f'),
+ 'qt5quicktest.dll': bytearray(b'\xbf\xee\xfd\xe4\xd0a\x03>\xb8\xc58\x8e'
+                               b'~\xa2\xc5x'),
+ 'qt5quickwidgets.dll': bytearray(b'\x8e\x0c\xdd\xcc\xe4X\xbe\xac\n.Q\xe1'
+                                  b'~\xd7\xdd\xa7'),
+ 'qt5remoteobjects.dll': bytearray(b'\xc1\x80\xc1\xdei1\x19\xe7\t1Q\xec'
+                                   b'\xeb\xa4\xc3\xba'),
+ 'qt5sensors.dll': bytearray(b'\x178\xc2\x16\xe9\xe9f\xcd\x84\xee\x80\x83'
+                             b'\xf8\x0b\x8c\xcc'),
+ 'qt5serialport.dll': bytearray(b'\xecE~o-\x91\x17\x01\xe5\xea\xc7\xf1'
+                                b'\xc9\x16g-'),
+ 'qt5sql.dll': bytearray(b'\xae<\xe7;I\x10\xa8@d/(\x05\x8e\xd9\xc6/'),
+ 'qt5svg.dll': bytearray(b'\xe7\xe0~\xf4j\xb3\xf5\x9e\xaa\x15\xaeX'
+                         b'\xc8\\\xf9\x1f'),
+ 'qt5test.dll': bytearray(b'R\x93\x9f\x19\xa6\xca\xf7\x9c\x86\x89*N'
+                          b'\xe7\xcb\xfda'),
+ 'qt5virtualkeyboard.dll': bytearray(b'9\xaa\xca\x90dUw|)<M/-\xd6\xed\x8c'),
+ 'qt5webchannel.dll': bytearray(b'|\xd3\x0cH\xc4}.k\x1a\x80\xdcu,,\xd8:'),
+ 'qt5webengine.dll': bytearray(b'\x9995tQ\xbf\xd8\x7f\nK\x84\x93H\xc5vm'),
+ 'qt5webenginecore.dll': bytearray(b'>\x982\xbe]\xb0\xfd\x05v\xdf\xbe\xe7'
+                                   b'Y\x04\xe2\xfa'),
+ 'qt5webenginewidgets.dll': bytearray(b',r\xbe\xfeh\xcac\xd6\xcd\xf5 H'
+                                      b'\xb4\xd4\xcf\x03'),
+ 'qt5websockets.dll': bytearray(b"e\x05\xba'\xa0\xfc\x15E\x80\x1adf"
+                                b'\xfe\xac(\xc2'),
+ 'qt5widgets.dll': bytearray(b'wNz\xa1\x0c\xa1/y\xe0\xe6\x83B\xd2Rz\xd8'),
+ 'qt5xmlpatterns.dll': bytearray(b'I\xaf\xc2\x12N]\x88y\xcc\x06\n\xf3'
+                                 b'\xc8%\xaf\x1b'),
+ 'scipy\\_lib\\_ccallback_c.cp37-win_amd64.pyd': bytearray(b'=4\x11?I\x8fE\xf7'
+                                                           b'3_\x8b\xa4q4\x8em'),
+ 'scipy\\_lib\\_fpumode.cp37-win_amd64.pyd': bytearray(b'\x08\x88\xcb\x14'
+                                                       b'\xe3i,9.\xa7M\x04'
+                                                       b'\x06\xc53K'),
+ 'scipy\\_lib\\_uarray\\_uarray.cp37-win_amd64.pyd': bytearray(b'8h\xf3\x99'
+                                                               b'eTR\xfa'
+                                                               b'\xb2h\x83\x0f'
+                                                               b'4\x90\x0b\xce'),
+ 'scipy\\_lib\\messagestream.cp37-win_amd64.pyd': bytearray(b'\x86z\x8bR'
+                                                            b'\xa0\x9a\xc5\xdd'
+                                                            b'\x97\xc6:\x18'
+                                                            b'\x1b\xe5\xf2e'),
+ 'scipy\\fft\\_pocketfft\\pypocketfft.cp37-win_amd64.pyd': bytearray(b'\x10\xf1e\xd4'
+                                                                     b'/\x05\xdbg'
+                                                                     b'\x0eV"\xcf'
+                                                                     b'>\xd80\xb7'),
+ 'select.pyd': bytearray(b'\xc3\x0e^\xcc\xf9\xc6+\x0b\x0b\xc5~\xd5\x91\xe1l\xc0'),
+ 'shiboken2.abi3.dll': bytearray(b'\x9b\xe9\x97\x86\x8d\xe8\xc0\xc4'
+                                 b'\xb0T\x91\xa1\x8b0o:'),
+ 'shiboken2\\shiboken2.pyd': bytearray(b'\xef\x84W\xebO\x14!\\\xcc\x10\xf8\x98'
+                                       b'\xf2\x0f\x85\x00'),
+ 'simplejson\\_speedups.cp37-win_amd64.pyd': bytearray(b'Z\xaf\xcav'
+                                                       b'\xae\xb0\xb45/"l\xbd'
+                                                       b'\xad\x84j\xc5'),
+ 'sphinxbase\\_ad_win32.cp37-win_amd64.pyd': bytearray(b'\xa7!E\x14\x9f\xd9Gg'
+                                                       b'\xe4\xf4HN'
+                                                       b'w\xe6\x9c\x1c'),
+ 'sphinxbase\\_sphinxbase.cp37-win_amd64.pyd': bytearray(b'a\xdc\x93/'
+                                                         b'\xee\xc1#\xbb'
+                                                         b'\xf7\xce\x8a"`P$]'),
+ 'sqlite3.dll': bytearray(b'\xaa\xa5\xb2\xe2+8\x91\xa8O.\xde\xb3q\xc4\xae9'),
+ 'ssleay32.dll': bytearray(b'bP\x7f\x00\x85\xc9he\xc9\xbb\x15?K\xfa\x13{'),
+ 'tcl86t.dll': bytearray(b'\xc0\xb28\x15p\x1d\xba\xe2\xa3Y\xcb\x8a\xdb\x9a\xe70'),
+ 'tk86t.dll': bytearray(b'\xfd\xc8\xa5\xd9o\x95v\xbdp\xaa\x1c\xad\xc2\xf2\x17H'),
+ 'ucrtbase.dll': bytearray(b'\xe3\xe6\xf8\xcf\x13i\x100]\xa9?\x81\x10\x11w\xa1'),
+ 'unicodedata.pyd': bytearray(b'}\x1f\x10\\\xf8\x18 \xbbm\tb\xb6i\x89}\xde'),
+ 'vcruntime140.dll': bytearray(b'\x0eg]Jz[|\xcdi\x013\x86y?h\xeb'),
+ 'vcruntime140_1.dll': bytearray(b'\x90@\xed\x0f\xdfL\xe7U\x8c\xbf\xfbs'
+                                 b'\xd4\xc1wa'),
+ 'win32api.pyd': bytearray(b'r\xe1\xf0\x1er\xba\x00~:\xa1~\xae\xe9@\xff9'),
+ 'win32com\\shell\\shell.pyd': bytearray(b'\x84\xceG\x93\xd6\xa8\x84T5\xbai\xcb'
+                                         b'\xb4\xf2\x02B'),
+ 'win32trace.pyd': bytearray(b'\x1a(\x9by\x84\xb2[\xf6\x15\x0f\xfb\x8f'
+                             b'\xf9&\x8a\xd5'),
+ 'win32ui.pyd': bytearray(b'\x13\x86\x8b\xc8\\H\xcd\xe6C\xbb\xf2.\xb1\xa8\xe9:'),
+ 'win32wnet.pyd': bytearray(b'\xeb\xa6\n\x03%\x8e%\xb2\xfag1\xaf\x02\xd4\xf4;')}
